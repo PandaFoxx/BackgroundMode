@@ -14,7 +14,7 @@
     "url": "git+https://github.com/katzer/cordova-plugin-background-mode.git"
   },
   "keywords": [
-    "appplant",
+    "letsap",
     "background",
     "ecosystem:cordova",
     "cordova-ios",
@@ -23,7 +23,7 @@
   "engines": [
     {
       "name": "cordova",
-      "version": ">=3.0.0"
+      "version": ">=5.0.0"
     }
   ],
   "author": "Sebastián Katzer",
