@@ -1,8 +1,6 @@
-[![npm version](https://badge.fury.io/js/cordova-plugin-background-mode.svg)](http://badge.fury.io/js/cordova-plugin-background-mode)
-
-<p align="right">
-    <a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">EXAMPLE :point_right:</a>
-</p>
+Note: This is a clone of cordova-plugin-background-mode created by Katzer
+The original can be found here.
+https://github.com/katzer/cordova-plugin-background-mode.git
 
 Cordova Background Plug-in
 ==========================
