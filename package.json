@@ -23,7 +23,7 @@
   "engines": [
     {
       "name": "cordova",
-      "version": ">=cli-5.2.0"
+      "version": ">=3.0.0"
     }
   ],
   "author": "Sebastián Katzer",
